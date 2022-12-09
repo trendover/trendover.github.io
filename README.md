@@ -1,2 +1,2 @@
-# alinakhay.github.io
+# github.io
 Website
